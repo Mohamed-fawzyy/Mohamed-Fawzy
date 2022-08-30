@@ -1,10 +1,8 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Mohamed Fawzy</h1>
 <h3 align="center">I am a student at the Arab Academy for Science and Technology. Studying in the Department of Computer Science as a Principal Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfawzyy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfawzyy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfawzyy" alt="mohamedfawzyy" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce mobile app**
 
