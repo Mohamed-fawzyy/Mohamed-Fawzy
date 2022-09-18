@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Ecommerce mobile app**
 
-- 🌱 I’m currently learning **Java spring boot, flutter**
+- 🌱 I’m currently learning **Java spring boot, flutter, python**
 
-- 💬 Ask me about **Flutter, Java, SQL**
+- 👯 I'm looking to work on real and challenging projects for getting hired
 
 - 📫 How to reach me **fwzymohamed90@gmail.com**
 
