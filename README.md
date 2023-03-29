@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cross-Platform mobile apps**
 
-- 🌱 I’m currently learning **Java spring boot, flutter, Big Data**
+- 🌱 I’m currently learning **Cyber Security, flutter, Big Data**
 
 - 🕴🏻 I'm looking to work on real and challenging projects for getting hired
 
