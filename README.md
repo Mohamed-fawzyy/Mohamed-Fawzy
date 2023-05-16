@@ -4,7 +4,7 @@
 <h3 font-size="20" align="center">A passionate Software Engineer. </h3>
 
 
-<h1 align="center"><a href="https://drive.google.com/file/d/1D8hn4xZHDJs8OBLRTCll__50sSKYJHzg/view?usp=sharing">Resume</a></h1>
+<h1 align="center"><a href="https://drive.google.com/drive/u/0/my-drive">Resume</a></h1>
 
 - 🔭 I’m currently working on **Cross-Platform mobile apps**
 
