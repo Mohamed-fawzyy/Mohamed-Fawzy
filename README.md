@@ -6,11 +6,11 @@
 
 <h1 align="center"><a href="https://drive.google.com/file/d/1E8tuQZY8AOCXafRsZw2T32h8AVxyL0Dp/view?usp=share_link">Resume</a></h1>
 
-- 🔭 I’m currently working on **Cross-Platform mobile apps**
-
 - 🌱 I’m currently learning **Data Engineer and Big Data**
 
-- 🕴🏻 I'm looking to work on real and challenging projects for getting hired
+- 🔭 I’m previously working on **Cross-Platform mobile apps**
+
+- 🕴🏻 I'm looking to work on real and challenging projects to get hired
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
