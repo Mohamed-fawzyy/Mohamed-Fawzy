@@ -1,10 +1,12 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Mohamed Fawzy<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate Software Engineer. </h3>
+<h4 font-size="20" align="center">A passionate Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
 
-<h1 align="center"><a href="https://drive.google.com/file/d/1E8tuQZY8AOCXafRsZw2T32h8AVxyL0Dp/view?usp=share_link">Resume</a></h1>
+<!-- <h1 align="center"><a href="https://drive.google.com/file/d/1E8tuQZY8AOCXafRsZw2T32h8AVxyL0Dp/view?usp=share_link">Resume</a></h1> -->
+
+<br>
 
 - 🌱 I’m currently learning **Software Engineer and Full-Stack**
 
