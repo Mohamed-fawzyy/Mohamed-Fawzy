@@ -8,11 +8,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Software Engineer and Full-Stack**
+- 🌱 I’m currently working @ EL-Sewedy Electric as **Software Engineer**
 
-- 🔭 I’m previously working on **Cross-Platform mobile apps**
+- 🔭 I’m previously working on **Back-End developer using Spring Boot**
 
-- 🕴🏻 I'm looking to work on real and challenging projects to improve my skills
+- 🕴🏻 I'm looking to excel my skills on a real and challenging projects to improve my skills
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
